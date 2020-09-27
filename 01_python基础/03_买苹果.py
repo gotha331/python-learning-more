@@ -7,4 +7,8 @@ weight = 7.5
 # 3.计算付款金额
 total = price * weight
 
-# print(total)
+# 4.只要买，就返还5元
+
+total = total - 5
+
+print(total)
