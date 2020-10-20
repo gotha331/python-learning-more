@@ -20,35 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e3b93b-054c-4702-a3b0-d22f583a3944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_02_累加求和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_03_累加求和进阶版本.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_04_break和continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_05_循环嵌套之小星星.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_06_循环嵌套之九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_循环/dm_07_转义字符.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_01_九九乘法表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_02_快速体验.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_03_say_hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_04_sum_2_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_05_函数的嵌套调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_06_打印分隔线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_07_打印多条分隔线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_08_分隔线模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_函数/dm_09_体验模块.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-learning-more.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-learning-more.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_01_列表基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_02_del关键字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_03_列表的数据统计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_04_列表排序.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/01_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_01_hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/02_qq号码.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_02_qq号码.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/03_买苹果.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_03_买苹果.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/04_个人信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_04_个人信息.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/05_买苹果增强版.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_05_买苹果增强版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/06_变量的格式化输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_python基础/dm_06_变量的格式化输出.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/07_判断年龄.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_分支/dm_01_判断年龄.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/08_逻辑运算.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_分支/dm_02_逻辑运算.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/09_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_分支/dm_03_elif.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/10_if嵌套.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_分支/dm_04_if嵌套.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/11_if综合练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_分支/dm_05_if综合练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_python基础/12_while循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_循环/dm_01_while循环.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/04_函数" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="myPyQtBackend" value="PyQt4" />
@@ -91,8 +67,8 @@
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\02_分支" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dm_02_快速体验 (1)">
-    <configuration name="dm_02_快速体验 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dm_04_列表排序">
+    <configuration name="dm_01_列表基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/dm_02_快速体验.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_01_列表基本使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_02_快速体验" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_02_del关键字" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\liujiang\Desktop\python-learning-more\04_函数\dm_02_快速体验.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_02_del关键字.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_06_打印分隔线 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_03_列表的数据统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/dm_06_打印分隔线.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_03_列表的数据统计.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_09_体验模块 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_04_列表排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_高级数据类型" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/dm_09_体验模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_04_列表排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_09_体验模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_10_高级变量类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\liujiang\Desktop\python-learning-more\04_函数\dm_09_体验模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/dm_10_高级变量类型.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dm_02_快速体验 (1)" />
-        <item itemvalue="Python.dm_06_打印分隔线 (1)" />
-        <item itemvalue="Python.dm_09_体验模块 (1)" />
-        <item itemvalue="Python.dm_09_体验模块" />
-        <item itemvalue="Python.dm_02_快速体验" />
+        <item itemvalue="Python.dm_04_列表排序" />
+        <item itemvalue="Python.dm_03_列表的数据统计" />
+        <item itemvalue="Python.dm_02_del关键字" />
+        <item itemvalue="Python.dm_01_列表基本使用" />
+        <item itemvalue="Python.dm_10_高级变量类型" />
       </list>
     </recent_temporary>
   </component>
@@ -236,62 +212,76 @@
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1601168937315" />
     <state x="2560" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602727895046" />
-    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1603181705019">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1603206949679">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1603181705019">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1603206949679">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1603181705019">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1603206949678">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1603181705019">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949678" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1603206949679">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1603177133824">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom" timestamp="1603206153907">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177133824" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1603177133824">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center" timestamp="1603206153907">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177133824" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1603177133824">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left" timestamp="1603206153907">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177133824" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1603177133824">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right" timestamp="1603206153907">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177133824" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1600308161184">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
+    <state x="2656" y="261" key="RollbackChangesDialog" timestamp="1603206685944">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2656" y="261" key="RollbackChangesDialog/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206685944" />
+    <state x="2381" y="190" key="SettingsEditor" timestamp="1603209393121">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308161184" />
+    <state x="2381" y="190" key="SettingsEditor/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603209393121" />
     <state x="2582" y="134" width="596" height="891" key="find.popup" timestamp="1603178562200">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2582" y="134" width="596" height="891" key="find.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603178562200" />
-    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1603177987676">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup" timestamp="1603205601677">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177987676" />
+    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603205601677" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
