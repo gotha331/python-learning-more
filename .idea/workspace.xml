@@ -20,10 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e3b93b-054c-4702-a3b0-d22f583a3944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_01_列表基本使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_02_del关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_03_列表的数据统计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_04_列表排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_05_列表遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_06_元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_07_格式化字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_08_元组和列表之间的转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_09_字典基本使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_10_字典的其他操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_11_字典的遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_12_字典的应用场景.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_13_字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_14_字符串判断方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_15_字符串的查找和替换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_16_字符串文本对齐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_17_字符串去除空白字符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_18_字符串的拆分和连接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_19_字符串的切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_20_内置函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_21_for语法演练.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_高级数据类型/dm_22_遍历字典的列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_名片管理系统/cards_tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-learning-more.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-learning-more.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +67,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/04_函数" />
     <property name="settings.editor.selected.configurable" value="terminal" />
@@ -58,17 +76,39 @@
     <option name="myPyQtBackend" value="PyQt4" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\liujiang\Desktop\python-learning-more\04_函数" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liujiang\Desktop\python-learning-more" />
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\04_函数" />
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\03_循环" />
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\02_分支" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liujiang\Desktop\python-learning-more\04_函数" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.dm_04_列表排序">
-    <configuration name="dm_01_列表基本使用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cards_main">
+    <configuration name="cards_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-more" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_名片管理系统" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_名片管理系统/cards_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dm_19_字符串的切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_01_列表基本使用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_19_字符串的切片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_02_del关键字" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_20_内置函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_02_del关键字.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_20_内置函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_03_列表的数据统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_21_for语法演练" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +162,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_03_列表的数据统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_21_for语法演练.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +171,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_04_列表排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_22_遍历字典的列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,28 +183,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_04_列表排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dm_10_高级变量类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-learning-more" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_函数/dm_10_高级变量类型.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_高级数据类型/dm_22_遍历字典的列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dm_04_列表排序" />
-        <item itemvalue="Python.dm_03_列表的数据统计" />
-        <item itemvalue="Python.dm_02_del关键字" />
-        <item itemvalue="Python.dm_01_列表基本使用" />
-        <item itemvalue="Python.dm_10_高级变量类型" />
+        <item itemvalue="Python.cards_main" />
+        <item itemvalue="Python.dm_22_遍历字典的列表" />
+        <item itemvalue="Python.dm_21_for语法演练" />
+        <item itemvalue="Python.dm_20_内置函数" />
+        <item itemvalue="Python.dm_19_字符串的切片" />
       </list>
     </recent_temporary>
   </component>
@@ -206,38 +225,41 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2560" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602727895046">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1601168937315" />
     <state x="2560" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602727895046" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1603206949679">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1603274419131">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
-    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603274419131" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1603206949679">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1603274419131">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
-    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603274419131" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1603206949678">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1603274419131">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
-    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603274419131" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949678" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1603206949679">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1603274419131">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
-    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603181705019" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603274419131" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
     <state width="1899" height="358" key="GridCell.Tab.1.bottom" timestamp="1603206153907">
@@ -273,14 +295,18 @@
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308161184" />
     <state x="2381" y="190" key="SettingsEditor/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603209393121" />
+    <state x="2679" y="357" key="chooseDestDirectoryDialog" timestamp="1603248354021">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2679" y="357" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603248354021" />
     <state x="2582" y="134" width="596" height="891" key="find.popup" timestamp="1603178562200">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2582" y="134" width="596" height="891" key="find.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603178562200" />
-    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup" timestamp="1603205601677">
-      <screen x="1920" y="23" width="1920" height="1057" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1603272751318">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
-    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603177987676" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603272751318" />
     <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603205601677" />
   </component>
   <component name="XDebuggerManager">
