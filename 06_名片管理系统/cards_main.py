@@ -1,3 +1,4 @@
+#! /c/Users/liujiang/AppData/Local/Microsoft/WindowsApps/python3
 import cards_tools
 
 while True:
@@ -13,20 +14,20 @@ while True:
 
         # 新增名片
         if action_str == "1":
-            pass
+            cards_tools.new_card()
         # 显示全部
         elif action_str == "2":
-            pass
+            cards_tools.show_all()
         # 查询名片
         else:
-            # TODO(jiang) 查询名片功能
+            cards_tools.search_card()
             pass
 
-            # 0 退出系统
+    # 0 退出系统
     elif action_str == "0":
         print("欢迎再次使用【名片管理系统】")
         break
 
-    # 其他内容输入错误,需要提示用户
-    else:
-        print("您输入的不正确,请重新选择")
+# 其他内容输入错误,需要提示用户
+else:
+    print("您输入的不正确,请重新选择")
