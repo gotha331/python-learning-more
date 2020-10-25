@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e3b93b-054c-4702-a3b0-d22f583a3944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_12_多值参数案例.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_13_元组和字典的拆包.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_14_函数的递归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_15_递归案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_01_类的设计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_02_面向对象基础语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_03_创建一个猫对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_04_新建两个猫对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_05_设置对象属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_06_初始化方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_07_利用参数设置属性初始值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_08____del__方法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +73,8 @@
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\04_函数" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dm_15_递归案例">
-    <configuration name="dm_11_多值参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dm_08____del__方法">
+    <configuration name="dm_03_创建一个猫对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_03_创建一个猫对象.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_12_多值参数案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_04_新建两个猫对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_12_多值参数案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_04_新建两个猫对象.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_13_元组和字典的拆包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_05_设置对象属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_13_元组和字典的拆包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_05_设置对象属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_14_函数的递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_07_利用参数设置属性初始值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_14_函数的递归.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_07_利用参数设置属性初始值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dm_15_递归案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dm_08____del__方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_面向对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_15_递归案例.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_08____del__方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dm_15_递归案例" />
-        <item itemvalue="Python.dm_14_函数的递归" />
-        <item itemvalue="Python.dm_13_元组和字典的拆包" />
-        <item itemvalue="Python.dm_12_多值参数案例" />
-        <item itemvalue="Python.dm_11_多值参数" />
+        <item itemvalue="Python.dm_08____del__方法" />
+        <item itemvalue="Python.dm_07_利用参数设置属性初始值" />
+        <item itemvalue="Python.dm_05_设置对象属性" />
+        <item itemvalue="Python.dm_04_新建两个猫对象" />
+        <item itemvalue="Python.dm_03_创建一个猫对象" />
       </list>
     </recent_temporary>
   </component>
@@ -222,62 +225,62 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2660" y="335" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603344877112" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1603604321683">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1603636136111">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321683" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1603604321682">
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636136111" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603607301356" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1603636136111">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321682" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1603604321682">
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636136111" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603607301356" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1603636136110">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949678" />
-    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321682" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1603604321683">
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636136110" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603607301341" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1603636136111">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321683" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1603444924471">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636136111" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603607301356" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom" timestamp="1603633638927">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
-    <state width="1899" height="358" key="GridCell.Tab.1.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1603444924471">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603633638927" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center" timestamp="1603633638926">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
-    <state width="1899" height="358" key="GridCell.Tab.1.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1603444924471">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603633638926" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left" timestamp="1603633638926">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
-    <state width="1899" height="358" key="GridCell.Tab.1.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1603444924471">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603633638926" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right" timestamp="1603633638927">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
-    <state width="1899" height="358" key="GridCell.Tab.1.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206153907" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603633638927" />
     <state x="2656" y="261" key="RollbackChangesDialog" timestamp="1603206685944">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
@@ -291,6 +294,14 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2679" y="357" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603248354021" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-1" timestamp="1603631810397">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-1/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603631810397" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-2" timestamp="1603631810398">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-2/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603631810398" />
     <state x="2582" y="134" width="596" height="891" key="find.popup" timestamp="1603178562200">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
