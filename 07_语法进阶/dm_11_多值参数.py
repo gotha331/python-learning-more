@@ -3,10 +3,10 @@
 # 2.参数名前增加两个 * 可以接收字典  **kwargs
 
 
-def demo(num, *args, **kwargs):
+def demo(num, *nums, **person):
     print(num)
-    print(args)
-    print(kwargs)
+    print(nums)
+    print(person)
 
 
 demo(1, 2, 3, 4, 5, name="小明", age=18, gender=True)

@@ -20,18 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e3b93b-054c-4702-a3b0-d22f583a3944" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_01_引用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_02_函数不能直接修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_03_修改全局变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_04_全局变量命名.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_05_多个返回值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_06_交换两个数字（面试题）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_07_不可变和可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_08_函数内部通过方法修改可变参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_09_加等于（面试题）.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_10_缺省参数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_12_多值参数案例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_13_元组和字典的拆包.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_14_函数的递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_语法进阶/dm_15_递归案例.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_语法进阶/dm_11_多值参数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,91 +70,7 @@
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\04_函数" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dm_11_多值参数">
-    <configuration name="dm_07_不可变和可变参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-learning-more" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_07_不可变和可变参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dm_08_函数内部通过方法修改可变参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-learning-more" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_08_函数内部通过方法修改可变参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dm_09_加等于（面试题）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-learning-more" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_09_加等于（面试题）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dm_10_缺省参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-learning-more" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_10_缺省参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.dm_15_递归案例">
     <configuration name="dm_11_多值参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,13 +92,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="dm_12_多值参数案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-more" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_12_多值参数案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dm_13_元组和字典的拆包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-more" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_13_元组和字典的拆包.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dm_14_函数的递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-more" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_14_函数的递归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dm_15_递归案例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning-more" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_语法进阶" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_语法进阶/dm_15_递归案例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dm_15_递归案例" />
+        <item itemvalue="Python.dm_14_函数的递归" />
+        <item itemvalue="Python.dm_13_元组和字典的拆包" />
+        <item itemvalue="Python.dm_12_多值参数案例" />
         <item itemvalue="Python.dm_11_多值参数" />
-        <item itemvalue="Python.dm_10_缺省参数" />
-        <item itemvalue="Python.dm_09_加等于（面试题）" />
-        <item itemvalue="Python.dm_08_函数内部通过方法修改可变参数" />
-        <item itemvalue="Python.dm_07_不可变和可变参数" />
       </list>
     </recent_temporary>
   </component>
@@ -228,34 +222,38 @@
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
     <state x="2660" y="335" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603344877112" />
-    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1603444944900">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1603604321683">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1603444944900">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321683" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1603604321682">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
-    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1603444944900">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321682" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1603604321682">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949678" />
-    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1603444944900">
-      <screen x="1920" y="0" width="1920" height="1160" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321682" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1603604321683">
+      <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
     <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
     <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206949679" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1603604321683" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1603444924471">
       <screen x="1920" y="0" width="1920" height="1160" />
     </state>
