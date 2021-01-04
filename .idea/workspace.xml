@@ -20,12 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15e3b93b-054c-4702-a3b0-d22f583a3944" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_01_不使用继承开发动物和狗.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_02_使用继承开发动物和狗.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_03_继承的传递性.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_04_继承的传递性注意事项.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_05_父类方法重写.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/09_面向对象_继承/dm_06_父类方法扩展.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_16_继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_17_继承的传递性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_18_父类方法重写.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_19_父类方法扩展.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_20_父类的私有属性和私有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_21_父类的公有方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_22_多继承.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_面向对象/dm_23_多继承的使用注意事项.py" afterDir="false" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_面向对象/dm_01_类的设计.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象_封装/dm_01_类的设计.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_面向对象/dm_02_面向对象基础语法.py" beforeDir="false" afterPath="$PROJECT_DIR$/08_面向对象_封装/dm_02_面向对象基础语法.py" afterDir="false" />
@@ -87,8 +98,13 @@
       <recent name="C:\Users\liujiang\Desktop\python-learning-more\02_分支" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.dm_06_父类方法扩展">
     <configuration name="dm_01_不使用继承开发动物和狗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+  <component name="RunManager" selected="Python.dm_23_多继承的使用注意事项">
+    <configuration name="dm_19_父类方法扩展" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +116,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_面向对象_继承/dm_01_不使用继承开发动物和狗.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_19_父类方法扩展.py" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +129,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="dm_02_使用继承开发动物和狗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="dm_20_父类的私有属性和私有方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +145,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_面向对象_继承/dm_02_使用继承开发动物和狗.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_20_父类的私有属性和私有方法.py" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +158,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="dm_03_继承的传递性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="dm_21_父类的公有方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,7 +174,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_面向对象_继承/dm_03_继承的传递性.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_21_父类的公有方法.py" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +187,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="dm_05_父类方法重写" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="dm_22_多继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,7 +203,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="C:\Users\liujiang\Desktop\python-learning-more\09_面向对象_继承\dm_05_父类方法重写.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_22_多继承.py" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +216,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="dm_06_父类方法扩展" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="dm_23_多继承的使用注意事项" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <module name="python-learning-more" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,7 +232,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09_面向对象_继承/dm_06_父类方法扩展.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_面向对象/dm_23_多继承的使用注意事项.py" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +247,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.dm_06_父类方法扩展" />
         <item itemvalue="Python.dm_05_父类方法重写" />
         <item itemvalue="Python.dm_03_继承的传递性" />
         <item itemvalue="Python.dm_02_使用继承开发动物和狗" />
         <item itemvalue="Python.dm_01_不使用继承开发动物和狗" />
+=======
+        <item itemvalue="Python.dm_23_多继承的使用注意事项" />
+        <item itemvalue="Python.dm_22_多继承" />
+        <item itemvalue="Python.dm_21_父类的公有方法" />
+        <item itemvalue="Python.dm_20_父类的私有属性和私有方法" />
+        <item itemvalue="Python.dm_19_父类方法扩展" />
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
       </list>
     </recent_temporary>
   </component>
@@ -229,6 +289,117 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="WindowStateProjectService">
+    <state x="2560" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602727895046">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1601168937315" />
+    <state x="2560" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1602727895046" />
+    <state x="2660" y="335" key="FileChooserDialogImpl" timestamp="1603344877112">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2660" y="335" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603344877112" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom" timestamp="1604415072651">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1604246307853" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415072651" />
+    <state width="1899" height="290" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1604407905373" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center" timestamp="1604415072650">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1604246307852" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415072650" />
+    <state width="1899" height="290" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1604407905372" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left" timestamp="1604415072650">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1604246307852" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415072650" />
+    <state width="1899" height="290" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1604407905371" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right" timestamp="1604415072651">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444944900" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1200@1920.0.1920.1200" timestamp="1602748547242" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1604246307852" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415072651" />
+    <state width="1899" height="290" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.990@1920.23.1920.1057" timestamp="1604407905372" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom" timestamp="1604412792150">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636614046" />
+    <state width="1899" height="358" key="GridCell.Tab.1.bottom/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604412792150" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center" timestamp="1604412792149">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636614046" />
+    <state width="1899" height="358" key="GridCell.Tab.1.center/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604412792149" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left" timestamp="1604412792149">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636614046" />
+    <state width="1899" height="358" key="GridCell.Tab.1.left/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604412792149" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right" timestamp="1604412792150">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308311457" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603444924471" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603636614046" />
+    <state width="1899" height="358" key="GridCell.Tab.1.right/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604412792150" />
+    <state x="2656" y="261" key="RollbackChangesDialog" timestamp="1603206685944">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2656" y="261" key="RollbackChangesDialog/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603206685944" />
+    <state x="2381" y="190" key="SettingsEditor" timestamp="1603209393121">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1600308161184" />
+    <state x="2381" y="190" key="SettingsEditor/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603209393121" />
+    <state x="2679" y="357" key="chooseDestDirectoryDialog" timestamp="1603248354021">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2679" y="357" key="chooseDestDirectoryDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603248354021" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-1" timestamp="1604415078061">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-1/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603631810397" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-1/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415078061" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-2" timestamp="1604415078061">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-2/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603631810398" />
+    <state x="2020" y="123" width="1720" height="857" key="dock-window-2/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604415078061" />
+    <state x="2582" y="134" width="596" height="891" key="find.popup" timestamp="1603178562200">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2582" y="134" width="596" height="891" key="find.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603178562200" />
+    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup" timestamp="1604412963634">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603334750760" />
+    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup/0.23.1920.990/1920.23.1920.1057@1920.23.1920.1057" timestamp="1603205601677" />
+    <state x="2543" y="255" width="672" height="618" key="search.everywhere.popup/1920.23.1920.1057/0.23.1920.1057@1920.23.1920.1057" timestamp="1604412963634" />
+  </component>
+>>>>>>> c1e6ef780aff684d16995cc3e88f42c37ab07ef4
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
