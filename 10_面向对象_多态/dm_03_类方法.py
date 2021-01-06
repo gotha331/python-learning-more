@@ -3,6 +3,11 @@ class Tool:
 
     count = 0
 
+    # 类方法
+    @classmethod
+    def show_tool_count(cls):
+        print("工具对象的数量 %d" % cls.count)
+
     def __init__(self, name):
         self.name = name
 
@@ -12,9 +17,6 @@ class Tool:
 
 # 1.创建工具对象
 tool1 = Tool('锤子')
-tool2 = Tool('斧头')
 
-# 2.输出工具对象的总数
-
-# 访问类属性：类名.类属性
-print(Tool.count)
+# 2.调用类方法
+Tool.show_tool_count()
