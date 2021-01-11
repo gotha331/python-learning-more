@@ -16,7 +16,7 @@
 #           soup = BeautifulSoup(fp, 'lxml')
 #       2.将互联网上获取的页面源码加载到该对象中
 #           page_text= response.text
-#           soup = BeautifulSoup(page_text,'lxml)
+#           soup = BeautifulSoup(page_text,'lxml')
 #   - 提供的用于数据解析的方法和属性：
 #       1. soup.tagName: 返回的是文档中第一次出现的tagName对应的标签
 #       2. soup.find():
