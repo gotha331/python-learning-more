@@ -1,0 +1,27 @@
+scrapy框架
+
+- 什么是框架？
+    - 就是一个集成了很多功能并且具有很强通用性的一个项目框架。
+
+- 如何学习框架？
+     - 专门学习框架封装的各种功能的详细用法。
+
+- 什么是scrapy?
+    - 爬虫中封装好的一个明星框架。功能：高性能的持久化存储，异步的数据下载，高性能的数据解析，分布式...
+
+- scrapy框架的基本使用
+    - 环境安装
+        - mac/linux: pip install scrapy
+        - windows:
+            - pip install wheel (pip install wheel -i https://pypi.tuna.tsinghua.edu.cn/simple)
+            - 下载twisted下载地址为https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+            - 安装twisted: pip install Twisted-17. 1.0-cp36-cp36m-win-amd64 whl
+            - pip install pywin32
+            - pip install scrapy
+            测试：在终端里录入 scrap指令，没有报错即表示安装成功！
+    - 创建一个工程： scrapy startproject xxxPro
+    - cd xxxPro
+    - 在spiders子目录中创建一个爬虫文件
+        - scrapy genspider spiderName www.xxx.com
+    - 执行工程：
+        - scrapy crawl spiderName
